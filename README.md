@@ -1,5 +1,5 @@
 ## Fluid hunter motivation in Central Africa: effects on behaviour, bushmeat, and income
-## :deciduous_tree: :boar::man_walking_dark_skin_tone::poultry_leg: :euro: :writing_hand_dark_skin_tone: :computer: :person_raising_hand_dark_skin_tone::cyclone:
+<!---## :deciduous_tree: :boar::man_walking_dark_skin_tone::poultry_leg: :euro: :writing_hand_dark_skin_tone: :computer: :person_raising_hand_dark_skin_tone::cyclone:--->
 
 <br>
 
