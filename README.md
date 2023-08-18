@@ -1,13 +1,15 @@
-## Fluid hunter motivation in Central Africa: effects on behaviour, bushmeat, and income
+## Fluid hunter motivation in Central Africa: Effects on behaviour, bushmeat and income (or: hierarchical Bayes learning resource!)
 <!---## :deciduous_tree: :boar::man_walking_dark_skin_tone::poultry_leg: :euro: :writing_hand_dark_skin_tone: :computer: :person_raising_hand_dark_skin_tone::cyclone:--->
 
 <br>
 
-This repository will host fully reproducible input data and scripts of data exploration, prior predictive checks, model fitting, model checking, and posterior predictions and plotting for the forthcoming paper *Fluid hunter motivation in Central Africa: effects on behaviour, bushmeat, and income*. As of 07/09/22 The paper is soon to be submitted for peer review, and content will be posted when it is accepted for publication.
+This repository will host fully reproducible input data and scripts of data exploration, prior predictive checks, model notation, model fitting, model checking, and posterior predictions and plotting for the in-press paper *Fluid hunter motivation in Central Africa: Effects on behaviour, bushmeat, and income*: https://doi.org/10.1002/pan3.10502
 
-Anonymised full data will further be available under conditions by the end of 2022 in the WILDMEAT database: [https://www.wildmeat.org](https://www.wildmeat.org.). 
+I hope for this paper and code to be a useful resource for people (regardless of domain) looking to learn simple yet creative and flexible implementation of hierarchical Bayesian modelling. A novel aspect of this work was the weaving of the oft-disparate statistical worlds of hierarchical and structural equation modelling; we made a multivariate response generalized linear mixed piecewise structural equation model (mvGLMpwSEM). Implementation is in **brms**.
 
-Shiny participatory apps in English and French, and forthcoming apps and updates are at: [https://www.nadagabon.org](https://www.nadagabon.org.) 
+I am currently travelling and unable to push; code will be up by EOY 2023. Please do come back! And feel free to email me beforehand if especially curious: graden@nadagabon.org
+
+Anonymised further data is available in the WILDMEAT database: [https://www.wildmeat.org](https://www.wildmeat.org.). You can read more about our paraecology participatory bushmeat hunting monitoring programme coupling paraecology with hunter GPS self-follows [https://doi.org/10.1111/aje.12956](in this earlier paper). Shiny participatory apps in English and French, and forthcoming apps and updates are at: [https://www.nadagabon.org](https://www.nadagabon.org.) 
 
 <!---To run the code, download the entire repository and run scripts within the R project. The 3 scripts are as follows:
 
