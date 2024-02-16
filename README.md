@@ -7,7 +7,7 @@ This repository will host fully reproducible input data and scripts of data expl
 
 I hope for this paper and code to be a useful resource for people (regardless of domain) looking to learn simple yet creative and flexible implementation of hierarchical Bayesian modelling. A novel aspect of this work was the weaving of the oft-disparate statistical worlds of hierarchical and structural equation modelling; we made a multivariate response generalized linear mixed piecewise structural equation model (mvGLMpwSEM). Implementation is in **brms**.
 
-I am currently travelling and unable to push; code will be up by EOY 2023. Please do come back! And feel free to email me beforehand if curious: graden@nadagabon.org
+I am currently uploading the code so this is a WIP; the final version will be up by the end of February 2024.
 
 Anonymised further data is available in the WILDMEAT database: https://wildmeat.org. You can read more about our participatory bushmeat hunting monitoring programme coupling paraecology with hunter GPS self-follows in this earlier paper: https://doi.org/10.1111/aje.12956. Shiny participatory apps in English and French, and forthcoming apps and updates are available at: https://nadagabon.org. 
 
